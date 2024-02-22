@@ -24,4 +24,9 @@ const howLucky = (userName, age, colorEyes) => {
     };
   };
 
+  const pressButton = () => {
+    console.log(howLucky(userName, age, colorEyes));
+  }
 
+
+  
