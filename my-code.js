@@ -28,5 +28,4 @@ const howLucky = (userName, age, colorEyes) => {
     console.log(howLucky(userName, age, colorEyes));
   }
 
-
-  
+  pressButton();
